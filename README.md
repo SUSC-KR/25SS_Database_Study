@@ -20,7 +20,7 @@
 | 1주차 | 2025.03.25 | 스터디 OT 및 책 소개 |    |    |
 | 2주차 | 2025.04.01 | Chapter 1    |  [링크](https://velog.io/@choo121600/SUSC-DB-design-modeling-%EC%8A%A4%ED%84%B0%EB%94%94-Part-1.1-SQL-and-NoSQL-Database)  |[링크](https://it-life-blog.tistory.com/entry/DB-Study-1st-Weeks-Study)    |
 | 3주차 | 2025.04.08 | Chapter 2    |  [링크](https://velog.io/@choo121600/Building-a-Strong-Foundation-for-Database-Design)  |  [링크](https://azure-sunday-163.notion.site/2-1c1c1f2e407981c6a807fe407557bb2c?pvs=73)  |
-| 4주차 | 2025.04.15 | Chapter 3    |    |    |
+| 4주차 | 2025.04.15 | Chapter 3    |  [링크](https://velog.io/@choo121600/Getting-Your-Hands-Dirty-with-PostgreSQL-and-MySQL)  |    |
 | 5주차 | 2025.04.22 | 시험 공부     |    |    |
 | 6주차 | 2025.04.29 | 시험 공부     |    |    |
 | 7주차 | 2025.05.06 | Chapter 4    |    |    |
