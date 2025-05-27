@@ -23,9 +23,10 @@
 | 4주차 | 2025.04.15 | Chapter 3    |  [링크](https://velog.io/@choo121600/Getting-Your-Hands-Dirty-with-PostgreSQL-and-MySQL)  |  [링크](https://azure-sunday-163.notion.site/3-1c1c1f2e407981f1855be305ab05004e?pvs=4)  |
 | 5주차 | 2025.04.22 | 시험 공부     |    |    |
 | 6주차 | 2025.04.29 | 시험 공부     |    |    |
-| 7주차 | 2025.05.06 | Chapter 4    |    |    |
-| 8주차 | 2025.05.13 | Chapter 5    |    |    |
-| 9주차 | 2025.05.20 | Chapter 6    |    |    |
-| 10주차 | 2025.05.27 | Chapter 7    |    |    |
-| 11주차 | 2025.06.03 | Chapter 8    |    |    |
-| 12주차 | 2025.06.10 | 회고         |    |    |
+| 7주차 | 2025.05.22 | Chapter 4    | [링크](https://velog.io/@choo121600/Part-3-Core-Concepts-in-Database-Design) |    |
+| 8주차 | 2025.05.27 | Chapter 5    |    |    |
+| 9주차 | 2025.06.03 | Chapter 6    |    |    |
+| 10주차 | 2025.06.10 | Chapter 7   |    |    |
+| 11주차 | 2025.06.17 | 시험 공부    |    |    |
+| 12주차 | 2025.06.24 | 시험 공부    |    |    |
+| 13주차 | 2025.07.01 | Chapter 8  |    |    |
